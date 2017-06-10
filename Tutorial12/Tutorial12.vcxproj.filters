@@ -20,16 +20,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="shaders\compile.bat">
-      <Filter>Resource Files</Filter>
-    </None>
     <None Include="shaders\frag.spv">
-      <Filter>Resource Files</Filter>
-    </None>
-    <None Include="shaders\shader.frag">
-      <Filter>Resource Files</Filter>
-    </None>
-    <None Include="shaders\shader.vert">
       <Filter>Resource Files</Filter>
     </None>
     <None Include="shaders\vert.spv">

@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{2E3E9AB5-1A3E-4F43-9946-81A414A802D1}</ProjectGuid>
+    <ProjectGuid>{792346EB-1467-48AF-97BF-634E6DE065AC}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Tutorial11</RootNamespace>
+    <RootNamespace>Tutorial12</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -159,10 +159,7 @@
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="shaders\compile.bat" />
     <None Include="shaders\frag.spv" />
-    <None Include="shaders\shader.frag" />
-    <None Include="shaders\shader.vert" />
     <None Include="shaders\vert.spv" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
