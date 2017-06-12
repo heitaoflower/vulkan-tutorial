@@ -1,7 +1,10 @@
-# vulkan-tutorial
+vulkan-tutorial
+===============
 
-Visual Studio 2017
+The first part of the tutorial involves the use of vulkan to draw basic triangles every step.
 
-Windows SDK Version : 10.0.X
-
-VulkanSDK : 1.0.46.0
+## building
+### Requirements
+* Visual Studio 2017
+* Windows SDK Version : 10.0.X
+* VulkanSDK : 1.0.46.0
