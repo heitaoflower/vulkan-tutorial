@@ -6,8 +6,7 @@ The first part of the tutorial involves the use of vulkan to draw basic triangle
 
 ## building
 The repository contains everything required to compile and build the examples on Windows.
-![windows logo](docs/assets/windowslogo.png)
-## <img src="./images/windowslogo.png" alt="" height="32px"> Windows
+## <img src="Doc/assets/windowslogo.png" alt="" height="32px"> Windows
 ### Requirements
 * Visual Studio 2017
 * Windows SDK Version : 10.0.X
