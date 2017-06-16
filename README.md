@@ -7,10 +7,8 @@ The first part of the tutorial involves the use of vulkan to draw basic triangle
 ## Building
 The repository contains everything required to compile and build the examples on Windows.
 ## <img src="Docs/assets/windowslogo.png" alt="" height="32px"> Windows
-A Visual Studio solution file for compiling all examples is included with the repository, examples will compile with VS2017.
+A Visual Studio solution file for compiling all examples is included with the repository, examples will compile with VS2017 and WindowsSDK10.0.x.
 
 If you're using a difference IDE or compiler you can use the provided CMakeLists.txt for use with [CMake](https://cmake.org/) to generate a build configuration for your toolchain.
 ### Requirements
-* Visual Studio 2017
-* Windows SDK Version : 10.0.X
 * VulkanSDK : 1.0.46.0
