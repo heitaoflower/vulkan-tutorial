@@ -1,5 +1,7 @@
 Vulkan tutorial examples and demos
 ===============
+
+[![Join the chat at https://gitter.im/vulkan-tutorial/Lobby](https://badges.gitter.im/vulkan-tutorial/Lobby.svg)](https://gitter.im/vulkan-tutorial/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![vulkan_logo](Docs/assets/vulkanlogo.png)
 
 The first part of the tutorial involves the use of vulkan to draw basic triangles every step. Each setp has its own subdirectory containing a complete copy of the tutorial for that setp
