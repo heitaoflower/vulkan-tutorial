@@ -6,11 +6,11 @@ The first part of the tutorial involves the use of vulkan to draw basic triangle
 
 ## Status
 [![Build status](https://ci.appveyor.com/api/projects/status/994t283721pa8fo8/branch/master?svg=true)](https://ci.appveyor.com/project/heitaoflower/vulkan-tutorial/branch/master)
-The repository contains everything required to compile and build the examples on Windows.
 
 ## <img src="Docs/assets/windowslogo.png" alt="" height="32px"> Windows
-A Visual Studio solution file for compiling all examples is included with the repository, examples will compile with VS2017 and WindowsSDK10.0.x.
+A Visual Studio solution file for compiling all example projects is included with the repository, examples will compile with VS2017 and WindowsSDK10.0.x.
 
-If you're using a difference IDE or compiler you can use the provided CMakeLists.txt for use with [CMake](https://cmake.org/) to generate a build configuration for your toolchain.
+The repository contains everything required to compile and build the example projects on Windows.
+
 ### Requirements
 * VulkanSDK : 1.0.46.0
