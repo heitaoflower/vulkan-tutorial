@@ -5,6 +5,11 @@ Vulkan tutorial examples and demos
 The first part of the tutorial involves the use of vulkan to draw basic triangles every step. Each setp has its own subdirectory containing a complete copy of the tutorial for that setp
 
 ## Status
+
+| Compiler         | Operating System                     | Architecture | Version String |
+|------------------|--------------------------------------|--------------|----------------|
+| Visual Studio 2017 | Windows 8.1 Build 16170            | x64          | MSVC 19.10.25017.0 |
+
 [![Build status](https://ci.appveyor.com/api/projects/status/994t283721pa8fo8/branch/master?svg=true)](https://ci.appveyor.com/project/heitaoflower/vulkan-tutorial/branch/master)
 
 ## <img src="Docs/assets/windowslogo.png" alt="" height="32px"> Windows
