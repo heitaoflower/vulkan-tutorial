@@ -4,7 +4,7 @@ Vulkan tutorial examples and demos
 
 The first part of the tutorial involves the use of vulkan to draw basic triangles every step. Each setp has its own subdirectory containing a complete copy of the tutorial for that setp
 
-## Building
+## Status
 [![Build status](https://ci.appveyor.com/api/projects/status/994t283721pa8fo8/branch/master?svg=true)](https://ci.appveyor.com/project/heitaoflower/vulkan-tutorial/branch/master)
 The repository contains everything required to compile and build the examples on Windows.
 
