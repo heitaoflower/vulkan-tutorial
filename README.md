@@ -5,14 +5,12 @@ Vulkan tutorial examples and demos
 The first part of the tutorial involves the use of vulkan to draw basic triangles every step. Each setp has its own subdirectory containing a complete copy of the tutorial for that setp
 
 ## Status
-
-| Compiler         | Operating System                     | Architecture | Version String |
-|------------------|--------------------------------------|--------------|----------------|
-| Visual Studio 2017 | Windows 8.1 Build 16170            | x64          | MSVC 15.1.1012.6693 |
-| Visual Studio 2017 | Windows 8.1 Build 16170            | x86          | MSVC 15.1.1012.6693 |
-
-[![Build status](https://ci.appveyor.com/api/projects/status/994t283721pa8fo8/branch/master?svg=true)](https://ci.appveyor.com/project/heitaoflower/vulkan-tutorial/branch/master)
-
+| | Windows | Android | MacOS/iOS |
+|:---:|:---:|:---:|:---:|
+|CI Status|[![Build status](https://ci.appveyor.com/api/projects/status/994t283721pa8fo8/branch/master?svg=true)](https://ci.appveyor.com/project/heitaoflower/vulkan-tutorial/branch/master)|TODO |TODO|
+|IDE| VS2015+ | Android Studio 2.2+| Xcode 8.1+ |
+|OS Requirements| Win10 | Android 7.+| MacOS Sierra |
+|Dependency| [ThirdParty](https://github.com/Tomicyo/kaleido3d_dep)/CMake 3.4+ | [ThirdParty](https://github.com/Tomicyo/kaleido3d_dep)/NDK r12+/Gradle | [ThirdParty](https://github.com/Tomicyo/kaleido3d_dep)/CMake 3.4+ |
 
 ## <img src="Docs/assets/windowslogo.png" alt="" height="32px"> Windows
 A Visual Studio solution file for compiling all example projects is included with the repository, examples will compile with VS2017 and WindowsSDK10.0.x.
