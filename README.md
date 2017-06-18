@@ -9,6 +9,7 @@ The first part of the tutorial involves the use of vulkan to draw basic triangle
 | Compiler         | Operating System                     | Architecture | Version String |
 |------------------|--------------------------------------|--------------|----------------|
 | Visual Studio 2017 | Windows 8.1 Build 16170            | x64          | MSVC 19.10.25017.0 |
+| Visual Studio 2017 | Windows 8.1 Build 16170            | x86          | MSVC 19.10.25017.0 |
 
 [![Build status](https://ci.appveyor.com/api/projects/status/994t283721pa8fo8/branch/master?svg=true)](https://ci.appveyor.com/project/heitaoflower/vulkan-tutorial/branch/master)
 
