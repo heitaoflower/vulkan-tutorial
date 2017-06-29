@@ -49,6 +49,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tutorial22", "Tutorial22\Tu
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tutorial23", "Tutorial23\Tutorial23.vcxproj", "{062AF749-266A-4F79-A93A-6254641FB2A8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tutorial24", "Tutorial24\Tutorial24.vcxproj", "{A35032CB-1ADC-45C9-A9CB-FAF9194B54ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -289,6 +291,16 @@ Global
 		{062AF749-266A-4F79-A93A-6254641FB2A8}.Release|x64.Build.0 = Release|x64
 		{062AF749-266A-4F79-A93A-6254641FB2A8}.Release|x86.ActiveCfg = Release|Win32
 		{062AF749-266A-4F79-A93A-6254641FB2A8}.Release|x86.Build.0 = Release|Win32
+		{A35032CB-1ADC-45C9-A9CB-FAF9194B54ED}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{A35032CB-1ADC-45C9-A9CB-FAF9194B54ED}.Debug|x64.ActiveCfg = Debug|x64
+		{A35032CB-1ADC-45C9-A9CB-FAF9194B54ED}.Debug|x64.Build.0 = Debug|x64
+		{A35032CB-1ADC-45C9-A9CB-FAF9194B54ED}.Debug|x86.ActiveCfg = Debug|Win32
+		{A35032CB-1ADC-45C9-A9CB-FAF9194B54ED}.Debug|x86.Build.0 = Debug|Win32
+		{A35032CB-1ADC-45C9-A9CB-FAF9194B54ED}.Release|Any CPU.ActiveCfg = Release|Win32
+		{A35032CB-1ADC-45C9-A9CB-FAF9194B54ED}.Release|x64.ActiveCfg = Release|x64
+		{A35032CB-1ADC-45C9-A9CB-FAF9194B54ED}.Release|x64.Build.0 = Release|x64
+		{A35032CB-1ADC-45C9-A9CB-FAF9194B54ED}.Release|x86.ActiveCfg = Release|Win32
+		{A35032CB-1ADC-45C9-A9CB-FAF9194B54ED}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
