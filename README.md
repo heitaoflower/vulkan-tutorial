@@ -2,7 +2,11 @@ Vulkan tutorial examples and demos
 ===============
 ![vulkan_logo](Docs/assets/vulkanlogo.png)
 The first part of the tutorial involves the use of vulkan to draw basic triangles every step. Each setp has its own subdirectory containing a complete copy of the tutorial for that setp.
+
+<p align="center">
 <img src="https://img.shields.io/badge/license-MIT-blue.svg" title="license-mit" />
+</>
+
 # Prerequisites
 | | Windows | Android | MacOS/iOS |
 |:---:|:---:|:---:|:---:|
