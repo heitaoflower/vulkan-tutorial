@@ -1,3 +1,9 @@
 [submodule "3rdparty"]
 	path = 3rdparty
 	url = https://github.com/heitaoflower/vulkan-tutorial-3rdparty
+[submodule "3rd_party/glfw"]
+	path = 3rd_party/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "3rd_party/glm"]
+	path = 3rd_party/glm
+	url = https://github.com/g-truc/glm.git
