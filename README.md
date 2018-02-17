@@ -37,7 +37,7 @@ cmake -G "Visual Studio 14 Win64" ..
 ## Requirements
 * VulkanSDK : 1.0.68.0
 
-## <img src="Docs/assets/maclogo.png" alt="" height="32px"> Linux
+## <img src="Docs/assets/maclogo.png" alt="" height="32px"> 
 
 ## Requirements
 * MoltenVK : 0.19
