@@ -40,4 +40,5 @@ cmake -G "Visual Studio 14 Win64" ..
 ## <img src="Docs/assets/maclogo.png" alt="" height="32px"> Mac
 
 ## Requirements
-* MoltenVK : 0.19
+* VulkanSDK : 1.0.69.0
+* MoltenVK : 0.19(Deprecated)
